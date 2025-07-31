@@ -1,0 +1,10 @@
+# Visual Studio temp folders
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+
